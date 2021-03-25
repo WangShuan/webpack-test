@@ -8,7 +8,7 @@
 
 打開 `package.json` 找到 `scripts` 將其改為如下內容：
 
-```json
+```js
 "scripts": {
   "test": "echo \"Error: no test specified\" && exit 1",
 
@@ -163,7 +163,7 @@ module.exports = {
 
 再開啟 `package.json` 將 `scripts` 改為下方：
 
-```json
+```js
 "scripts": {
   "test": "echo \"Error: no test specified\" && exit 1",
 
